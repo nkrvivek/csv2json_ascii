@@ -10,7 +10,7 @@ Make sure your XLS or CSV table has the first row with column names
 
 ### Usage
 
-    Usage: python csv2json.py [INPUTFILE]
+    python csv2json.py [INPUTFILE]
 
 ### Alternative usage
 
