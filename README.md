@@ -1,4 +1,2 @@
-csv2json_ascii
+Convert CSV files to JSON with ASCII support (to include foreing languages)
 ==============
-
-csv2json (with ascii support)
